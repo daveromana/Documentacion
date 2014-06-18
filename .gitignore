@@ -1,0 +1,49 @@
+INTRODUCCION
+En el presente proyecto se desarrollara e implementara una aplicación web, con el lenguaje de programación HTML5, utilizando hojas de estilo CSS3 y con JavaScript con conexión a una base de datos, para una tienda en línea de una empresa vendiendo sus productos a personas en específico, y en base en la información general reportes para saber el inventario de los productos, monto vendido y listado de clientes para dicha empresa.
+
+JUSTIFICACION
+
+El presente proyecto nace de la necesidad de incrementar y fortalecer la productividad en las actividades y procesos realizados por administrativos para tener un medio de información que permita gestionar reportes y controlar e inventariar.
+También permitirá implementar un método más eficiente para salvaguardar su información evitando la pérdida de la información, así como gestionar reportes en base de su estado, y con ello crear un método más fácil de vender sus productos a personas que no tienen disponibilidad del establecimiento del local.
+Con el paso del tiempo la implementación de este proyecto beneficiará a la empresa y a los empleados proporcionando un método eficiente para administrar la información, así como fortalecer su productividad y el rendimiento a la hora de efectuar sus actividades.
+
+DEFINICION DEL SISTEMA
+
+En la fase de análisis se deberá describir el sistema, establecer como se comunicara o interactuara con las personas encargadas de usar el sistema y que usuarios serán representativos en el uso del mismo.
+
+REQUISITOS DEL SISTEMA
+
+El presente sistema deberá cumplir con los siguientes requisitos.
+•	La información se deberá ser presentada de forma atractiva y deberá ser viable y confiable.
+•	El contenido del sitio web se administrara mediante una interfaz especial para el administrador que permita actualizar sus productos, clientes y agregar usuario si es necesario.
+•	La actualización o edición de la web deberá ser lo más fácil posible de manera que no sea complicado entender y usar el sistema evitando que las personas cometan errores.
+•	Deberá poderse establecer un flujo de trabajo del contenido de la web.
+•	Los clientes que deseen comprar deberán registrarse para poder obtener dichos productos.
+•	Solo personas autorizadas podrán hacer cambios a la página web, los que la empresa autorice para realizar dichos cambios.
+•	La página deberá cumplir y estar elaborado con el estándar HTML5, CSS3, PHP, y JavaScript, con MYSQL cono gestor de base de datos.
+•	El sitio web será público pero dedicado a ciertas personas.
+•	El web deberá contar con un carrito de compras.
+
+OBJETIVO GENERAL
+
+Diseñar e implementar una aplicación para optimizar las actividades y procesos en el manejo de su inventario y una manera más accesible para vender productos a personas en específico utilizando una web programada en HTML5, CSS5, PHP y conexión a una Base de datos con MYSQL. 
+
+OBJETIVO ESPECIFICOS
+
+Se señalaron los siguientes objetivos específicos. 
+
+• Controlar el inventario. 
+• Aumentar la rapidez del equipo de trabajo. 
+• Gestionar Reportes de los componentes. 
+• Solucionar errores o fallas de manera eficiente y rápida. 
+• Proporcionar información confiable y en forma rápida. 
+• Implementar métodos que permitan asegurar la información.
+ 
+ROLES
+
+Encargado de proyecto, Analista	Jorge Joel Perez Cruz
+Programador Web	Josue Isaac Pool Kumul
+Programador web, BD	Juan Noh
+BD,documentador	Noé Canche Aban
+
+
